@@ -1,0 +1,5 @@
+/* styles.css */
+.group:hover .icon-hover-green {
+    filter: invert(48%) sepia(71%) saturate(447%) hue-rotate(94deg) brightness(92%) contrast(89%);
+  }
+  
